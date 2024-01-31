@@ -1,0 +1,15 @@
+{
+  "name": "0x08_react_redux_action_creator_normalizr",
+  "version": "1.0.0",
+  "description": "Ryuk",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json}\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
+}
