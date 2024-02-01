@@ -1,1 +1,0 @@
-## react_redux_action_creator_normalizr
